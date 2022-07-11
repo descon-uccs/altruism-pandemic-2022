@@ -1,4 +1,4 @@
-# cdc-2021-altruism-pandemic
+# altruism-pandemic-2022
 
 This file contains many potentially-useful functions and plotting utilities to explore the model presented in "Individual Altruism Cannot Overcome Congestion Effects in a Global Pandemic Game."
 
